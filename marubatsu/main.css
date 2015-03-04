@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+.head {
+    clear: both;
+}
+
+.piece {
+    display: block;
+    float: left;
+    width: 30px;
+    height: 30px;
+    border-width: 1px;
+    border-style: solid;
+}
